@@ -1,0 +1,37 @@
+ *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+body{
+     max-width: 900px;
+    margin: 0px auto;
+
+}
+#image-gallery{
+    width: 35rem;
+    margin: 4rem auto;
+}
+ h1{
+    text-align: center;
+margin-left: 70px;
+margin-top: 20px;    
+}
+ #thumb-container{
+    display: flex;
+    justify-content: center;
+ margin-top: 2rem;
+}
+.thumb{
+    width: 100px;
+    height: 100px;
+    margin-left: 10px;
+}
+#main-image{
+    width: 200px;
+    height: 200px;
+    margin:  auto;
+    margin-left: 220px;
+} 
+ 
